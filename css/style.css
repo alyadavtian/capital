@@ -1,0 +1,25 @@
+.some-img{
+  width: 50%; 
+  border-radius: 50px;
+}
+body{
+background:rgba(173, 165, 196, 0.17);
+}
+.container{max-width: 1180px;
+}
+.content{background-color: white; padding: 25px; 
+}
+.uppermenu{ border-bottom: 6px solid  rgb(2, 113, 113);  
+}
+.following{background-color: rgba(173, 165, 196, 0.17); border-bottom: 6px solid rgb(2, 113, 113)
+ }
+a{text-decoration: none;}
+.unline{color: gray;}
+.unline:hover{color: black; text-decoration: underline dotted;}
+.colorblack{color: black;}
+.colorblack:hover{color: black; text-decoration: underline dotted;}
+.purple{background-color:rgba(171, 89, 198, 0.18); text-decoration: none; color: black; border-radius: 15px; padding: 20px; margin-top: 30px}
+.bluegreen{background-color: rgba(15, 76, 92, 0.17); text-decoration: none; color: black; border-radius: 15px; padding: 20px; margin-top: 30px}
+.yellow{background-color: rgba(138, 138, 92, 0.17); color: black; text-decoration: none; border-radius: 15px; padding: 20px; margin-top: 30px; margin-bottom: 30px;}
+.card:hover{background-color: rgba(0, 0, 0, 0.2);}
+.rounded-img{border-radius: 50%;}
